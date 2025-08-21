@@ -7,7 +7,7 @@ Nos últimos tempos, venho me aprofundando na área de **Qualidade de Software (
 ### 🚀 Atualmente estou estudando e aplicando:
 - 🧪 **Automação de testes** com **Cypress** e **Robot Framework**
 - 🔌 **Testes de API** utilizando **Postman**
-- ⚙️ **Integração Contínua e Entrega Contínua (CI/CD)** com ferramentas como **GitHub Actions** e **Jenkins**
+- ⚙️ **Integração Contínua e Entrega Contínua (CI/CD)** com ferramentas como **GitHub Actions** e **GitLab**
 - 💡 Práticas de versionamento com **Git** e controle de qualidade de código
 
 <h3 align="left">Connect with me:</h3>
