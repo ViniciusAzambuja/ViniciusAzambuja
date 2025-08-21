@@ -4,9 +4,11 @@
 Sou constantemente movido pela vontade de aprender e evoluir profissionalmente.  
 Nos últimos tempos, venho me aprofundando na área de **Qualidade de Software (QA)**, buscando entender as melhores práticas e ferramentas que garantem a entrega de produtos com excelência.
 
-### 🚀 Atualmente estou estudando:
-- **Cypress** e **Robot Framework** para automação de testes
-- **Postman** para testes de API
+### 🚀 Atualmente estou estudando e aplicando:
+- 🧪 **Automação de testes** com **Cypress** e **Robot Framework**
+- 🔌 **Testes de API** utilizando **Postman**
+- ⚙️ **Integração Contínua e Entrega Contínua (CI/CD)** com ferramentas como **GitHub Actions** e **Jenkins**
+- 💡 Práticas de versionamento com **Git** e controle de qualidade de código
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
