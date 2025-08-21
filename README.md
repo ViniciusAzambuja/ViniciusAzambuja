@@ -1,7 +1,12 @@
-<h1 align="center">Oi 👋, Eu sou Suporte Técnico</h1>
-<h3 align="center">Sou apaixonado por tecnologia e estou constantemente em busca de novos aprendizados que me ajudem a evoluir profissionalmente. Tenho me aprofundado na área de Qualidade de Software (QA)</h3>
+<h1 align="center">Oi 👋, Eu sou Vinicius Azambuja</h1>
+<h3 align="center">Atualmente trabalho como Suporte Técnico e sou apaixonado por tecnologia</h3>
 
-- Atualmente estou aprendendo mais sobre QA **Cypress e Robot Framework**
+Sou constantemente movido pela vontade de aprender e evoluir profissionalmente.  
+Nos últimos tempos, venho me aprofundando na área de **Qualidade de Software (QA)**, buscando entender as melhores práticas e ferramentas que garantem a entrega de produtos com excelência.
+
+### 🚀 Atualmente estou estudando:
+- **Cypress** e **Robot Framework** para automação de testes
+- **Postman** para testes de API
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
